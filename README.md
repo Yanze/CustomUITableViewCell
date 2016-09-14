@@ -1,2 +1,2 @@
-![alt tag](https://raw.githubusercontent.com/Yanze/CustomUITableViewCell/blob/master/TableViews/ScreenShot.png)
+![alt tag](https://github.com/Yanze/CustomUITableViewCell/blob/master/TableViews/ScreenShot.png)
 
